@@ -1,0 +1,20 @@
+ body{
+  background-color: blanchedalmond;
+ }
+ .bag-button{
+  width: 150px;
+  height: 50px;
+  background-color: goldenrod;
+  font-size: large;
+font-style: italic;  
+ }
+.wish-button{
+  width: 150px;
+  height: 50px; 
+  margin: 2px;
+  padding: 5px;
+  border-color: black;
+  box-sizing: content-box;
+
+}
+ 
